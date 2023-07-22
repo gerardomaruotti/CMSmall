@@ -1,0 +1,30 @@
+.router-link {
+	text-decoration: none;
+}
+
+.below-nav {
+	padding-top: 5rem;
+}
+
+.card-list {
+	padding: 0 2rem;
+}
+
+.page-img {
+	padding-bottom: 1rem;
+	height: 50%;
+	width: 100%;
+}
+
+.form-buttons,
+.page-buttons {
+	padding: 1rem;
+}
+
+.pages-list-buttons {
+	margin-right: 0.5rem;
+}
+
+.top-row-pages-list {
+	padding: 0 1rem 1rem 1rem;
+}
